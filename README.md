@@ -1,13 +1,11 @@
-<img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230"/>
+
+###   Hi there, I'm Shubham  👋
 
 <br/>
 
-###   Hi there, I'm Shubham  👋
+<img src="https://media.giphy.com/media/jnP0GEYlnkOxA1eOEo/giphy.gif" width="90">
  
 <!-- <img align="left" alt="dhiman's Github Stats" src="https://github-readme-stats.dhiman-007.vercel.app/api?username=dhiman-007&show_icons=true&hide_border=false" /> -->
-
-<br />
-
 
 
 <!-- ### Connect here: -->
