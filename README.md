@@ -1,3 +1,7 @@
+<img align='left' src="https://i.imgur.com/ICVXzvW.png" width="230"/>
+
+<br/>
+
 ###   Hi there, I'm Shubham  👋
  
 <!-- <img align="left" alt="dhiman's Github Stats" src="https://github-readme-stats.dhiman-007.vercel.app/api?username=dhiman-007&show_icons=true&hide_border=false" /> -->
