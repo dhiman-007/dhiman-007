@@ -1,7 +1,6 @@
 
 ###   Hi there 👋
-
-<br/>
+[![Linkedin: dhimanshubham1996](https://img.shields.io/badge/-follow-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhimanshubham1996/)](https://www.linkedin.com/in/dhimanshubham1996/) 
 
 <!-- <img src="https://media.giphy.com/media/jnP0GEYlnkOxA1eOEo/giphy.gif" width="90"> -->
  
