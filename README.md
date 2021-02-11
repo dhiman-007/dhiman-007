@@ -1,6 +1,7 @@
 
-<img src="https://data.whicdn.com/images/293246292/original.gif" width="200" height="180"> 
-<!-- ###   Hi there 👋 -->
+## Hi there 👋
+<img src="https://image.freepik.com/free-vector/man-is-working-with-laptop_28923-38.jpg" width="200" height="200"> 
+
 <!--
 [![Linkedin: dhimanshubham1996](https://img.shields.io/badge/-follow-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhimanshubham1996/)](https://www.linkedin.com/in/dhimanshubham1996/)  -->
 
